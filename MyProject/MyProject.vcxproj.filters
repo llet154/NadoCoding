@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\ch7">
       <UniqueIdentifier>{e07a04ab-cd9a-445e-b788-ff4d3fa3b9cf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch9">
+      <UniqueIdentifier>{1bf79288-d643-4eca-a3ea-888f4ca10be4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch8">
+      <UniqueIdentifier>{2699f4d6-0513-47c2-966c-6dfa52f6ff9a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="printfscanf.c">
@@ -51,13 +57,43 @@
     <ClCompile Include="random.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="function_project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9-10.c">
+      <Filter>소스 파일\ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9-9.c">
+      <Filter>소스 파일\ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9-8_complete.c">
+      <Filter>소스 파일\ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9-11.c">
+      <Filter>소스 파일\ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array_project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-7.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-4.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_project.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
