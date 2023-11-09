@@ -136,7 +136,17 @@
     <ClCompile Include="ch10-7~8.c" />
     <ClCompile Include="ch11-3.c" />
     <ClCompile Include="ch11-4.c" />
+    <ClCompile Include="ch11-6.c" />
     <ClCompile Include="ch11-7.c" />
+    <ClCompile Include="ch11-5.c" />
+    <ClCompile Include="ch11-8.c" />
+    <ClCompile Include="ch12-2.c" />
+    <ClCompile Include="ch12-3.c" />
+    <ClCompile Include="ch12-5.c" />
+    <ClCompile Include="ch13.c" />
+    <ClCompile Include="ch8-10.c" />
+    <ClCompile Include="ch8-11.c" />
+    <ClCompile Include="ch8-12.c" />
     <ClCompile Include="ch8-4.c" />
     <ClCompile Include="ch8-7.c" />
     <ClCompile Include="ch9-13.c" />
@@ -162,6 +172,8 @@
     <ClCompile Include="pointer_project.c" />
     <ClCompile Include="printfscanf.c" />
     <ClCompile Include="random.c" />
+    <ClCompile Include="struct.c" />
+    <ClCompile Include="struct_project.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

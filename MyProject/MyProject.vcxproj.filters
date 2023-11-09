@@ -28,6 +28,12 @@
     <Filter Include="소스 파일\ch11">
       <UniqueIdentifier>{a4d89d27-9bf9-4aee-a67a-0faffe4fcb68}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch12">
+      <UniqueIdentifier>{c3cd04be-cdb2-4527-8d9b-be3e1faa27fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch13">
+      <UniqueIdentifier>{13508329-8f97-4465-a019-75f907e74ee6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="printfscanf.c">
@@ -131,6 +137,42 @@
     </ClCompile>
     <ClCompile Include="m_array_project.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-10.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-11.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-12.c">
+      <Filter>소스 파일\ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11-5.c">
+      <Filter>소스 파일\ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11-6.c">
+      <Filter>소스 파일\ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="ch11-8.c">
+      <Filter>소스 파일\ch11</Filter>
+    </ClCompile>
+    <ClCompile Include="ch12-2.c">
+      <Filter>소스 파일\ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="ch12-3.c">
+      <Filter>소스 파일\ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="ch12-5.c">
+      <Filter>소스 파일\ch12</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_project.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch13.c">
+      <Filter>소스 파일\ch13</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
